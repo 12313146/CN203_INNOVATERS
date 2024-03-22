@@ -1,0 +1,61 @@
+body{
+    background-color: beige;
+}
+#hello{
+    margin-left: 25px;
+    margin-top: 25px;
+    text-align: center;
+    color: black;
+}
+#yoh{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+#blow{
+    padding: 15px;
+    display: inline;
+}
+#blow a{
+    text-decoration: none;
+    color: black;
+}
+#hand{
+    margin-right: 20px;
+}
+#chicken{
+    border-radius: 20px;   
+}
+#recipe1{
+    background-color: white;
+    border-radius: 25px;
+}
+#ookk{
+    text-align: center;
+    color: black;
+    padding-top: 15px;
+}
+#recipe2{
+    background-color: black;
+    border-radius: 25px;
+}
+#yuma{
+    text-align: center;
+    padding-right: 25%;
+}
+#lop{
+    padding: 25px;
+    padding-top: 0px;
+}
+#hyu{
+    color: wheat;
+    text-align: center;
+    padding-right: 20%;
+}
+#iam{
+    display: inline;
+}
+#pol{
+    color: wheat;
+    padding-left: 25px;
+}
